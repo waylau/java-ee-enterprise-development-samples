@@ -6,6 +6,7 @@
 * [Hello World](samples/hello-world)
 * [使用Eclipse创建Maven应用](samples/hello-eclipse)
 * [使用IntelliJ IEDA创建Maven应用](samples/hello-idea)
+* [创建基于Servlet的Web应用](samples/hello-servlet)
 * 陆续整理中...
 
 
