@@ -7,6 +7,9 @@
 * [使用Eclipse创建Maven应用](samples/hello-eclipse)
 * [使用IntelliJ IEDA创建Maven应用](samples/hello-idea)
 * [创建基于Servlet的Web应用](samples/hello-servlet)
+* [在应用里面内嵌Tomcat容器](samples/hello-tomcat)
+* [在应用里面内嵌Jetty容器（Maven插件方式）](samples/hello-jetty)
+* [在应用里面内嵌Jetty容器（Server方式）](samples/jetty-server)
 * 陆续整理中...
 
 
