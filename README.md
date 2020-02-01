@@ -12,6 +12,7 @@
 * [在应用里面内嵌Jetty容器（Server方式）](samples/jetty-server)
 * [使用JDBC操作数据库](samples/hello-jdbc)
 * [使用数据库连接池DBCP](samples/hello-dbcp)
+* [依赖注入的例子](samples/dependency-injection)
 * 陆续整理中...
 
 
