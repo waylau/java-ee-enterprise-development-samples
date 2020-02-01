@@ -10,6 +10,7 @@
 * [在应用里面内嵌Tomcat容器](samples/hello-tomcat)
 * [在应用里面内嵌Jetty容器（Maven插件方式）](samples/hello-jetty)
 * [在应用里面内嵌Jetty容器（Server方式）](samples/jetty-server)
+* [使用JDBC操作数据库](samples/hello-jdbc)
 * 陆续整理中...
 
 
