@@ -13,6 +13,9 @@
 * [使用JDBC操作数据库](samples/hello-jdbc)
 * [使用数据库连接池DBCP](samples/hello-dbcp)
 * [依赖注入的例子](samples/dependency-injection)
+* [使用@AspectJ的例子](samples/aop-aspect)
+* [基于XML的AOP的例子](samples/aop-aspect-xml)
+* [使用SpEL的例子](samples/expression-language)
 * 陆续整理中...
 
 
