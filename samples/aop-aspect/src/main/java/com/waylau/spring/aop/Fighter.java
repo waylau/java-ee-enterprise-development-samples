@@ -11,7 +11,7 @@ import org.aspectj.lang.annotation.Pointcut;
 /**
  * Fighter.
  * 
- * @since 1.0.0 2018年2月1日
+ * @since 1.0.0 2020年2月2日
  * @author <a href="https://waylau.com">Way Lau</a>
  */
 @Aspect

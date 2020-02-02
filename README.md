@@ -16,6 +16,7 @@
 * [使用@AspectJ的例子](samples/aop-aspect)
 * [基于XML的AOP的例子](samples/aop-aspect-xml)
 * [使用SpEL的例子](samples/expression-language)
+* [服务端测试Spring Web MVC的例子](samples/mvc-test)
 * 陆续整理中...
 
 

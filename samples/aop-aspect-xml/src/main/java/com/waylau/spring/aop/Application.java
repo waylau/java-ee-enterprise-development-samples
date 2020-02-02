@@ -9,7 +9,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 /**
  * Application Main.
  * 
- * @since 1.0.0 2018年1月28日
+ * @since 1.0.0 2020年2月2日
  * @author <a href="https://waylau.com">Way Lau</a>
  */
 public class Application {
