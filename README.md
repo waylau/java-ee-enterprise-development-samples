@@ -18,6 +18,9 @@
 * [使用SpEL的例子](samples/expression-language)
 * [服务端测试Spring Web MVC的例子](samples/mvc-test)
 * [声明式事务管理的例子](samples/declarative-transaction)
+* [基于Spring Web MVC的JSON类型的处理](samples/mvc-json)
+* [基于Spring Web MVC的XML类型的处理](samples/mvc-xml)
+* [基于Spring Web MVC的文件上传](samples/mvc-multipart)
 * 陆续整理中...
 
 

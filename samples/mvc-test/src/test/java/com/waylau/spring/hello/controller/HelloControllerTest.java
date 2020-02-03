@@ -44,7 +44,7 @@ public class HelloControllerTest {
                 .accept(MediaType.APPLICATION_JSON))
             .andExpect(status().isOk())
             .andExpect(content().contentType("application/json"))
-            //.andExpect(content().string("Hello World! Welcome to visit waylau.com!"));
+            .andExpect(content().string("Hello World! Welcome to visit waylau.com!"));
             ;
     }
 }
