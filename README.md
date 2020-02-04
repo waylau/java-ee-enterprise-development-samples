@@ -21,6 +21,7 @@
 * [基于Spring Web MVC的JSON类型的处理](samples/mvc-json)
 * [基于Spring Web MVC的XML类型的处理](samples/mvc-xml)
 * [基于Spring Security安全认证](samples/security-basic)
+* [使用MyBatis操作数据库](samples/hello-mybatis)
 * 陆续整理中...
 
 

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+    PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.waylau.mybatis.mapper.UserMapper">
+
+	<select id="getUser" resultType="com.waylau.mybatis.domain.User">
+		select user_id as userId, username
+		from t_user where user_id = #{userId}
+	</select>
+
+	<update id="updateUser"
+		parameterType="com.waylau.mybatis.domain.User">
+		update t_user set username = #{username}
+		where user_id = #{userId ,jdbcType=NUMERIC}
+	</update>
+
+	<insert id="createUser"
+		parameterType="com.waylau.mybatis.domain.User">
+		insert into t_user(user_id, username)
+		values(
+		#{userId ,jdbcType=NUMERIC},
+		#{username}
+		)
+	</insert>
+
+	<delete id="deleteUser">
+		delete from t_user
+		where user_id = #{userId ,jdbcType=NUMERIC}
+	</delete>
+</mapper>
