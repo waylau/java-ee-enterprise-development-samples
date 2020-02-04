@@ -9,7 +9,7 @@ import com.waylau.spring.mvc.vo.User;
 /**
  * Hello 控制器.
  * 
- * @since 1.0.0 2018年12月21日
+ * @since 1.0.0 2020年2月4日
  * @author <a href="https://waylau.com">Way Lau</a>
  */
 @RestController

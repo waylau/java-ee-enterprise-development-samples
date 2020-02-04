@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Import;
 /**
  * App Configuration.
  * 
- * @since 1.0.0 2018年12月21日
+ * @since 1.0.0 2020年2月4日
  * @author <a href="https://waylau.com">Way Lau</a>
  */
 @Configuration

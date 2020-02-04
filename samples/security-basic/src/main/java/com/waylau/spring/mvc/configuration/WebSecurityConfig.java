@@ -14,7 +14,7 @@ import org.springframework.security.provisioning.InMemoryUserDetailsManager;
 /**
  * Spring Security Configuration.
  * 
- * @since 1.0.0 2018年12月12日
+ * @since 1.0.0 2020年2月4日
  * @author <a href="https://waylau.com">Way Lau</a>
  */
 @EnableWebSecurity // 启用Spring Security功能
