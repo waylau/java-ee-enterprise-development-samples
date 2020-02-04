@@ -7,12 +7,12 @@ import org.springframework.context.annotation.Import;
 /**
  * App Configuration.
  * 
- * @since 2020年2月3日
+ * @since 1.0.0 2018年12月21日
  * @author <a href="https://waylau.com">Way Lau</a>
  */
 @Configuration
 @ComponentScan(basePackages = { "com.waylau.spring" })  
-@Import({ MvcConfiguration.class })
+@Import({ WebSecurityConfig.class, MvcConfiguration.class})
 public class AppConfiguration {
 
 }

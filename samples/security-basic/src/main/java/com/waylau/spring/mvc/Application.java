@@ -6,7 +6,7 @@ package com.waylau.spring.mvc;
 /**
  * Application Main.
  * 
- * @since 2020年2月3日
+ * @since 1.0.0 2018年12月21日
  * @author <a href="https://waylau.com">Way Lau</a>
  */
 public class Application {

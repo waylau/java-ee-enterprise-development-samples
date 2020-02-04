@@ -6,7 +6,7 @@ package com.waylau.spring.mvc.vo;
 /**
  * User.
  * 
- * @since 2020年2月3日
+ * @since 1.0.0 2018年12月10日
  * @author <a href="https://waylau.com">Way Lau</a>
  */
 public class User {
