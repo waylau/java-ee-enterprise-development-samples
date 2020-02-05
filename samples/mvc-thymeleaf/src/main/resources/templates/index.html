@@ -5,11 +5,13 @@
 <title th:text="${title}">标题</title>
 </head>
 <body>
-	<h1 th:text="${title}">标题</h1>
-	<p th:text="${header}">无序列表：</p>
+	<div>
+		<h1 th:text="${title}">标题</h1>
+		<p th:text="${header}">无序列表：</p>
 
-	<ul th:each="book : ${books}">
-		<li th:text="${book}">《Java EE企业级开发实战》</li>
-	</ul>
+		<ul th:each="book : ${books}">
+			<li th:text="${book}">《Java EE企业级开发实战》</li>
+		</ul>
+	</div>
 </body>
 </html>
