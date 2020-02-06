@@ -28,6 +28,7 @@
 * [基于WebClient的文件上传、下载](samples/webclient-file)
 * [基于Jersey的REST服务](samples/jersey-rest)
 * [基于SSE构建实时Web应用](samples/sse-real-time-web)
+* [基于STOMP的聊天室](samples/websocket-stomp)
 * 陆续整理中...
 
 
