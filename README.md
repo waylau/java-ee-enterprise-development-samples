@@ -24,6 +24,8 @@
 * [使用MyBatis操作数据库](samples/hello-mybatis)
 * [基于Thymeleaf的Web应用](samples/mvc-thymeleaf)
 * [基于Bootstrap的Web应用](samples/mvc-thymeleaf-bootstrap)
+* [基于RestTemplate的天气预报服务](samples/rest-template)
+* [基于WebClient的文件上传、下载](samples/webclient-file)
 * 陆续整理中...
 
 
