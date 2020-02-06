@@ -26,6 +26,8 @@
 * [基于Bootstrap的Web应用](samples/mvc-thymeleaf-bootstrap)
 * [基于RestTemplate的天气预报服务](samples/rest-template)
 * [基于WebClient的文件上传、下载](samples/webclient-file)
+* [基于Jersey的REST服务](samples/jersey-rest)
+* [基于SSE构建实时Web应用](samples/sse-real-time-web)
 * 陆续整理中...
 
 
