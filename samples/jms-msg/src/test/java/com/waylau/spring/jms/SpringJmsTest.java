@@ -2,12 +2,12 @@ package com.waylau.spring.jms;
 
 import javax.jms.Destination;
 
-import org.junit.Test;
-import org.junit.runner.RunWith;
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.test.context.ContextConfiguration;
-import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+import org.springframework.test.context.junit.jupiter.SpringExtension;
 
 import com.waylau.spring.jms.queue.ConsumerService;
 import com.waylau.spring.jms.queue.ProducerService;
@@ -19,7 +19,7 @@ import com.waylau.spring.jms.topic.TopicProvider;
  * @since 1.0.0 2018年4月15日
  * @author <a href="https://waylau.com">Way Lau</a>
  */
-@RunWith(SpringJUnit4ClassRunner.class)
+@ExtendWith(value={SpringExtension.class})
 @ContextConfiguration("/spring.xml")
 public class SpringJmsTest {
 
@@ -78,7 +78,7 @@ public class SpringJmsTest {
 	 * 测试生产者向queue1发送消息
 	 */
 	@Test
-	public void testProduce() {
+	void testProduce() {
 		String msg = "Hello world!";
 		producer.sendMessage(msg);
 	}
@@ -87,7 +87,7 @@ public class SpringJmsTest {
 	 * 测试消费者从queue1接受消息
 	 */
 	@Test
-	public void testConsume() {
+	void testConsume() {
 		consumer.receive(queueDestination);
 	}
 
@@ -97,7 +97,7 @@ public class SpringJmsTest {
 	 * 2.ConsumerMessageListener监听队列，并消费消息
 	 */
 	@Test
-	public void testSend() {
+	void testSend() {
 		producer.sendMessage(queueDestination2, "Hello R2");
 	}
 
@@ -107,7 +107,7 @@ public class SpringJmsTest {
 	 * 2.ConsumerMessageListener监听主题，并消费消息
 	 */
 	@Test
-	public void testTopic() {
+	void testTopic() {
 		topicProvider.publish(topic, "Hello Topic!");
 	}
 
@@ -119,7 +119,7 @@ public class SpringJmsTest {
 	 * 
 	 */
 	@Test
-	public void testAware() {
+	void testAware() {
 		producer.sendMessage(sessionAwareQueue, "Hello sessionAware");
 		consumer.receive(queueDestination);
 	}
@@ -132,7 +132,7 @@ public class SpringJmsTest {
 	 * 
 	 */
 	@Test
-	public void testAdapter() {
+	void testAdapter() {
 		producer.sendMessage(adapterQueue, "Hello adapterQueue", queueDestination);
 		consumer.receive(queueDestination);
 	}
