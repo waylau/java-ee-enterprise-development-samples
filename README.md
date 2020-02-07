@@ -32,6 +32,7 @@
 * [基于JMS的消息发送、接收](samples/jms-msg)
 * [实现Email服务器](samples/java-mail)
 * [基于Quartz Scheduler天气预报系统](samples/quartz-scheduler)
+* [基于缓存的天气预报系统](samples/java-cache)
 * 陆续整理中...
 
 
