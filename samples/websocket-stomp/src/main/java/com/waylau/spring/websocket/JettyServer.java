@@ -13,7 +13,7 @@ import com.waylau.spring.websocket.configuration.AppConfiguration;
 /**
  * Jetty Server.
  * 
- * @since 1.0.0 2018年3月21日
+ * @since 1.0.0 2020年2月7日
  * @author <a href="https://waylau.com">Way Lau</a>
  */
 public class JettyServer {

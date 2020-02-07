@@ -16,7 +16,7 @@ import com.waylau.spring.websocket.handler.vo.ChatMessage;
 /**
  * WebSocket EventListener.
  * 
- * @since 1.0.0 2018年4月4日
+ * @since 1.0.0 2020年2月7日
  * @author <a href="https://waylau.com">Way Lau</a> 
  */
 @Component

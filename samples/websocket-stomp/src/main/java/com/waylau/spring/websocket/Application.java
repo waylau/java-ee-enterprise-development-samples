@@ -6,7 +6,7 @@ package com.waylau.spring.websocket;
 /**
  * Application Main.
  * 
- * @since 1.0.0 2018年3月21日
+ * @since 1.0.0 2020年2月7日
  * @author <a href="https://waylau.com">Way Lau</a>
  */
 public class Application {
