@@ -12,7 +12,7 @@ import org.springframework.web.socket.config.annotation.StompEndpointRegistry;
 /**
  * WebSocket Config.
  * 
- * @since 1.0.0 2018年4月2日
+ * @since 1.0.0 2020年2月7日
  * @author <a href="https://waylau.com">Way Lau</a>
  */
 @Configuration
