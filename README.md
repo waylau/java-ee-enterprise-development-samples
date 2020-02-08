@@ -34,6 +34,8 @@
 * [基于Quartz Scheduler天气预报系统](samples/quartz-scheduler)
 * [基于缓存的天气预报系统](samples/java-cache)
 * [开启第一个Spring Boot项目](samples/initializr-start)
+* [实现微服务的注册与发现——Eureka Server](samples/eureka-client)
+* [实现微服务的注册与发现——Eureka Client](samples/eureka-server)
 * 陆续整理中...
 
 
