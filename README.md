@@ -33,6 +33,7 @@
 * [实现Email服务器](samples/java-mail)
 * [基于Quartz Scheduler天气预报系统](samples/quartz-scheduler)
 * [基于缓存的天气预报系统](samples/java-cache)
+* [开启第一个Spring Boot项目](samples/initializr-start)
 * 陆续整理中...
 
 
