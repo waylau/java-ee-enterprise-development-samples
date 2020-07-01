@@ -19,7 +19,7 @@
 		<spring.version>5.2.3.RELEASE</spring.version>
 		<commons-dbcp2.version>2.7.0</commons-dbcp2.version>
 		<h2.version>1.4.200</h2.version>
-		<log4j.version>2.13.0</log4j.version>
+		<log4j.version>2.13.3</log4j.version>
 	</properties>
 	<dependencies>
 		<dependency>
