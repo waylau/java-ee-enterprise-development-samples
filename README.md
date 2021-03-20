@@ -39,6 +39,36 @@
 * 陆续整理中...
 
 
+## 配套书籍《轻量级Java EE企业应用开发实战》
+
+与该源码配套的书籍《轻量级Java EE企业应用开发实战》已经出版，内容详见全书[目录](SUMMARY.md)。
+
+
+![](images/javaee-mini.png)
+
+视频介绍见：
+
+<iframe src="//player.bilibili.com/player.html?aid=929677906&bvid=BV1YK4y1U7S7&cid=312770300&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
+本书如有勘误，会在<https://github.com/waylau/java-ee-enterprise-development-samples/issues>上进行发布。由于笔者能力有限，时间仓促，难免错漏，欢迎读者批评指正。
+
+您也可以上[豆瓣](https://book.douban.com/subject/35085913/)给老卫打Call。
+
+## 如何获取本书
+
+实体店及各大网店有售。据我所知有如下网站供应：
+
+* [京东](https://search.jd.com/Search?keyword=%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%20%E6%9F%B3%E4%BC%9F%E5%8D%AB&enc=utf-8&wq=%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%20%E6%9F%B3%E4%BC%9F%E5%8D%AB&pvid=0faabd7ef54c4d3daabd5dcdd8012850)
+* [当当](http://search.dangdang.com/?key=%B7%D6%B2%BC%CA%BD%CF%B5%CD%B3%BF%AA%B7%A2%CA%B5%D5%BD%20%C1%F8%CE%B0%CE%C0&act=input)
+
+
+
+想低于市价得到本书？来[二手书集市](https://github.com/waylau/second-hand-books)试试看。
+
+
+也可以直接关注我博客（<https://waylau.com/>）或者我的开源书（<https://waylau.com/books/>）了解更多免费咨询。
+
 
 
 ## 联系作者
@@ -61,4 +91,4 @@
 
 ![开源捐赠](https://waylau.com/images/showmethemoney-sm.jpg)
 
-捐赠所得所有款项将用于开源事业！见[捐赠列表](https://waylau.com/donate/)。
+捐赠所得所有款项将用于开源事业！见[捐赠列表](https://waylau.com/donate)。
