@@ -46,9 +46,7 @@
 
 ![](images/javaee-mini.png)
 
-视频介绍见：
-
-<iframe src="//player.bilibili.com/player.html?aid=929677906&bvid=BV1YK4y1U7S7&cid=312770300&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+视频介绍见：<https://www.bilibili.com/video/BV1YK4y1U7S7>
 
 
 本书如有勘误，会在<https://github.com/waylau/java-ee-enterprise-development-samples/issues>上进行发布。由于笔者能力有限，时间仓促，难免错漏，欢迎读者批评指正。
