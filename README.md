@@ -57,8 +57,8 @@
 
 实体店及各大网店有售。据我所知有如下网站供应：
 
-* [京东](https://search.jd.com/Search?keyword=%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%20%E6%9F%B3%E4%BC%9F%E5%8D%AB&enc=utf-8&wq=%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%20%E6%9F%B3%E4%BC%9F%E5%8D%AB&pvid=0faabd7ef54c4d3daabd5dcdd8012850)
-* [当当](http://search.dangdang.com/?key=%B7%D6%B2%BC%CA%BD%CF%B5%CD%B3%BF%AA%B7%A2%CA%B5%D5%BD%20%C1%F8%CE%B0%CE%C0&act=input)
+* [京东](https://search.jd.com/Search?keyword=%E8%BD%BB%E9%87%8F%E7%BA%A7Java%20EE%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%20%E6%9F%B3%E4%BC%9F%E5%8D%AB&enc=utf-8&suggest=4.his.0.0&wq=&pvid=ce89a8faa97b4ca0a9ed586b36429dcd)
+* [当当](http://search.dangdang.com/?key=%C1%F8%CE%B0%CE%C0%20%C7%E1%C1%BF%BC%B6Java%20EE%C6%F3%D2%B5%D3%A6%D3%C3%BF%AA%B7%A2%CA%B5%D5%BD&act=input)
 
 
 
