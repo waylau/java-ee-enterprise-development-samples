@@ -18,7 +18,7 @@
 		<spring.version>5.2.3.RELEASE</spring.version>
 		<jetty.version>9.4.26.v20200117</jetty.version>
 		<jackson.version>2.10.2</jackson.version>
-		<httpclient.version>4.5.11</httpclient.version>
+		<httpclient.version>4.5.13</httpclient.version>
 	</properties>
 	<dependencies>
 		<dependency>
